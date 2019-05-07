@@ -1,0 +1,43 @@
+<mjml version="3.3.3">
+  <mj-body>
+    <mj-section background-color="#E5E5E5" padding="60px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image>
+          Dear "name"
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000" background-repeat="repeat" padding="0px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 0px 25px"> <b>Высокая производительность</b>
+          <hr></hr> Основной отличительной особенностью Whitebit является поддержка скорости обработки до 10000 транзакций каждую секунду и 1 000 000 TCP-соединений</mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px"
+          line-height="28px" padding="25px 25px 0px 25px"><b>Максимальная безопасность</b>
+          <hr></hr> Более 95% всех валют хранится на холодных кошельках. WAF (брандмауэр веб-приложений) - защитный экран веб-приложения, которое обнаруживает и блокирует хакерские атаки. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000" background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px" line-height="28px" padding="0px 25px 20px 25px"><b>Расширенный интерфейс
+</b>
+          <hr></hr> Мы используем одностраничное приложение. Элементы веб-сайта загружаются единожды на страницу. Дополнительный контент будет загружен при необходимости. </mj-text>
+        <mj-text align="center" color="#fff" font-family="Arial, sans-serif" font-size="14px"
+          line-height="28px" padding="0px 25px 20px 25px"><b>Мульти-поддержка
+</b>
+          <hr></hr> Поддержка 24/7 +3726104266. Английский, китайский (мандаринский), японский, русский, индонезийский, испанский, немецкий, корейский </mj-text>
+        <mj-image align="center" padding="10px 25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/1024px-Bitcoin.svg.png"
+          width="120px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#000" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding="10px 25px">Перейдите на наш сайт по ссылке &nbsp;<a style="color:#000" href="https://whitebit.com/"><b>WhiteBit</b></a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" background-size="auto" padding="20px 0px 20px 0px" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="center" color="#55575d" font-family="Arial, sans-serif" font-size="11px" line-height="22px" padding="0px 20px">Контакты: Whitebit Financial Company OÜ Sepise tn 1 Lasnamäe linnaosa</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
