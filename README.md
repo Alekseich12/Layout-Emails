@@ -1,3 +1,3 @@
-# Email12
+# My first layout of letters
 
-Verstka Email for WhiteBit
+Newsletter for WhiteBit
